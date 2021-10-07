@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jessica-im
 - 👀 I’m interested in so many things.
-- 🌱 I’m currently enrolled in Treehouse's Front End Web Dev TechDegree - wish me luck / share advice!
+- 🌱 I’m currently enrolled in General Assembly's Software Engineering Immersive - wish me luck / share advice!
 - 💞️ I’m looking to collaborate on small projects to build upon my experience.
 - 📫 Reach out - me@jessicaim.com 
 
